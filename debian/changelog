@@ -1,3 +1,9 @@
+source-highlight (3.1.9-deepin1) unstable; urgency=medium
+
+  * update changelog.
+
+ -- LiChengGang <lichenggang@uniontech.com>  Fri, 07 Apr 2023 15:51:29 +0800
+
 source-highlight (3.1.9-4.1) unstable; urgency=high
 
   * Non-maintainer upload.
