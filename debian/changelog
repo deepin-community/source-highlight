@@ -1,3 +1,12 @@
+source-highlight (3.1.9-deepin2) unstable; urgency=medium
+
+  * from debian 3.1.9-4.2
+  * Non-maintainer upload.
+  * Add upstream patch to fix GCC 12 FTBFS (Closes: #1013041)
+  * Add Multi-Arch according to MA hinter
+
+ -- LiChengGang <lichenggang@uniontech.com>  Fri, 22 Sep 2023 09:48:04 +0800
+
 source-highlight (3.1.9-deepin1) unstable; urgency=medium
 
   * update changelog.
